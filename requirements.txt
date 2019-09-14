@@ -14,7 +14,6 @@ cycler==0.10.0
 Cython==0.29.11
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.1
 entrypoints==0.3
 Flask==1.0.2
 fpdf==1.7.2
