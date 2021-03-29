@@ -63,7 +63,7 @@ protobuf==3.7.1
 psycopg2==2.8.3
 pycodestyle==2.5.0
 pycparser==2.19
-Pygments==2.4.2
+Pygments==2.7.4
 PyInstaller==3.5
 pylint==2.3.1
 PyMySQL==0.9.3
